@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Random Clock generator
 
 ## How to test
 
-Explain how to use your project
+Turning on and off the system each time you will get a randomized number or a letter
 
 ## External hardware
 
